@@ -1,0 +1,11 @@
+pwd - print work directory
+ls - list of the applications
+cd - change directory
+mkdir - make directory
+rmdir - remove directory
+touch - make file
+rm - remove file
+clear - clearing of the cmd
+git status - localda deyisilen amma stage-ə ötürülməyən dəyişiklikləri
+git log - commitlerin siyahisin cixarir
+git reset - stagedən locala qaytaran 
